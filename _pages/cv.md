@@ -19,12 +19,12 @@ Work experience
 ======
 * Summer 2020: Research Intern
   * RTE (Réseau de Transport d'Électricité)
-  * Duties included : Research on "possibilities of a decentralized power grid management in real time using multi-agent reinforcement learning"
+  * Subject : Research on "possibilities of a decentralized power grid management in real time using multi-agent reinforcement learning"
   * Supervisors: Benjamin Donnot, Karim Chaouache, Clément Goubet
 
 * Summer 2021: Research Intern
   * ENSAE
-  * Duties included: Merging pull requests
+  * Subject : Multi-agent reinforcement learning on labor market
   * Supervisor: Vianney Perchet, Morgen Hoffmane
   
 Skills
