@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2020: Research Intern
+* Summer 2022: Research Intern
   * RTE (Réseau de Transport d'Électricité)
   * Subject : Research on "possibilities of a decentralized power grid management in real time using multi-agent reinforcement learning"
   * Supervisors: Benjamin Donnot, Karim Chaouache, Clément Goubet
