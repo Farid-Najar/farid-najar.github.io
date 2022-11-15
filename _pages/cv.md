@@ -41,6 +41,7 @@ Skills
     * Other : Numpy, Pandas, Matplotlib, etc.
   * C/C++
 
+<ul>{% if false %}
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -62,3 +63,4 @@ Teaching
 #Service and leadership
 #======
 #* Currently signed in to 43 different slack teams
+{% endif %}</ul>
