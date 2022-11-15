@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Farid Najar"
 title_separator          : "-"
 name                     : &name "Farid Najar"
-description              : &description "PhD student at university Paris-Saclay"
+description              : &description "PhD student at Paris-Saclay university"
 url                      : https://farid-najar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "farid-najar.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Farid Najar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student at Paris-Saclay university"
   location         : "Grand Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
