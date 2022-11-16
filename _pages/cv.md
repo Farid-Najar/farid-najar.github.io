@@ -41,13 +41,14 @@ Skills
     * Other : Numpy, Pandas, Matplotlib, etc.
   * C/C++
 
-<ul>{% if false %}
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<ul>{% if false %}
 Talks
 ======
   <ul>{% for post in site.talks %}
