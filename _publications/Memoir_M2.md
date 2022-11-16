@@ -1,7 +1,7 @@
 ---
 title: "Possibilities of a decentralized power grid management in real time using multi-agent reinforcement learning"
 collection: publications
-permalink: /publication/Memoir_M2
+permalink: /publications/Memoir_M2
 excerpt: 'This paper is my Master's memoir'
 date: 2022-09-01
 venue: ''
