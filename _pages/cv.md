@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Artificial Intelligence (Math and Computer Science), Paris-Saclay University, 2025 (expected)
+* Ph.D. in Artificial Intelligence (Math and Computer Science), Paris-Saclay University, 2025 (expected)
 * M.S. in Mathematics and Artificial Intelligence, Paris-Saclay University, 2022
 * B.S. double degree in Math and Computer Science, Paris-Saclay University, 2020
 
@@ -20,12 +20,12 @@ Work experience
 * Summer 2022: Research Intern
   * RTE (Réseau de Transport d'Électricité)
   * Subject : Research on "possibilities of a decentralized power grid management in real time using multi-agent reinforcement learning"
-  * Supervisors: Benjamin Donnot, Karim Chaouache, Clément Goubet
+  * Supervisors : Benjamin Donnot, Karim Chaouache, Clément Goubet
 
 * Summer 2021: Research Intern
   * ENSAE
   * Subject : Multi-agent reinforcement learning on labor market
-  * Supervisor: Vianney Perchet, Morgen Hoffmane
+  * Supervisors : Vianney Perchet, Morgen Hoffmane
   
 Skills
 ======
@@ -40,6 +40,8 @@ Skills
     * AI libraries : Jax (and associated libraries like optax, haiku, etc.), PyTorch, Scikit Learn, TensorFlow, etc.
     * Other : Numpy, Pandas, Matplotlib, etc.
   * C/C++
+  * R
+  * Java
 
 
 Publications
