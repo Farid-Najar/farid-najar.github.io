@@ -33,12 +33,15 @@ Skills
   * Multi Armed Bandits
   * Markov Decision Process
   * Deep RL
+  * Game learning
+* Machine Learning
 * Optimization
 * Probability theory and statistics
 * Programming
   * Python
     * AI libraries : Jax (and associated libraries like optax, haiku, etc.), PyTorch, Scikit Learn, TensorFlow, etc.
     * Other : Numpy, Pandas, Matplotlib, etc.
+  * Julia
   * C/C++
   * R
   * Java
