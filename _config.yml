@@ -86,8 +86,8 @@ author:
   location         : "Grand Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "farid.najar@universite-paris-saclay.fr"
+  googlescholar    : "https://scholar.google.com/citations?user=KMfmFg4AAAAJ&hl=en"
+  email            : "farid.najar@uvsq.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/farid-najar-9b5ba6142/"
   orcid            :
   pinterest        :
   soundcloud       :
