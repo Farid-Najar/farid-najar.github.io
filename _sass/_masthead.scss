@@ -4,14 +4,12 @@
 
 .masthead {
   position: relative;
-  background-color: $primary-color; /* Dark blue/navy background */
-  border-bottom: 1px solid darken($primary-color, 10%);
+  border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
   &__inner-wrap {
     @include container;
@@ -29,13 +27,6 @@
 
     a {
       text-decoration: none;
-      color: $masthead-link-color;
-      font-weight: 500;
-      transition: color 0.2s ease;
-
-      &:hover {
-        color: $masthead-link-color-hover;
-      }
     }
   }
 }
@@ -51,35 +42,12 @@
 }
 
 .masthead__menu-item {
-  display: inline-block;
+  display: block;
   list-style-type: none;
   white-space: nowrap;
-  margin-right: 1.5rem;
-  padding: 0.5rem 0;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
-  }
-
-  a {
-    position: relative;
-    font-weight: 500;
-    font-size: 1.1em;
-    
-    &:after {
-      content: '';
-      position: absolute;
-      width: 0;
-      height: 2px;
-      bottom: -5px;
-      left: 0;
-      background-color: $masthead-link-color-hover;
-      transition: width 0.3s ease;
-    }
-    
-    &:hover:after {
-      width: 100%;
-    }
   }
 }

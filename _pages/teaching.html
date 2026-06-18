@@ -5,15 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
+{% if false %}
+{% include base_path %}
 
-### Teaching Assistant - Université Paris-Saclay/UVSQ Versailles
-**Computer Science Courses** | 2022–2025
-* Assisted in teaching undergraduate and graduate computer science courses
-* Mentored students on Python programming and algorithm design
-* Conducted lab sessions and provided one-on-one tutoring
-* Developed and graded assignments and exams
-
-### Student Mentoring
-* Guided students on research projects related to machine learning and optimization
-* Provided career guidance and research direction for aspiring graduate students
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %}
