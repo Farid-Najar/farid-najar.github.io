@@ -39,6 +39,7 @@ PhD in Computer Science and Applied Mathematics. Expertise in designing machine 
 **PhD, Computer Science & Mathematics** | 2022–2025
 
 *Subject: Algorithms hybridizing AI and OR for supply-chain impact management*
+
 *Supervisors: Prof. Dominique Barth and Dr. Yann Strozecki*
 
 ### Université Paris-Saclay Orsay
